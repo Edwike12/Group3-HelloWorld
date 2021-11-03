@@ -1,3 +1,8 @@
+body{
+    background-image: url("https://images-na.ssl-images-amazon.com/images/I/71IraSS0HCL._RI_.jpg");
+}
+
+
 h7{
     text-align: center;
     font-weight: bold;
@@ -33,3 +38,4 @@ p#welcome{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin-left: 10px;
 }
+
